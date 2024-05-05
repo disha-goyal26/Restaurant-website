@@ -1,0 +1,12 @@
+asgiref==3.7.2
+distlib==0.3.8
+Django==4.2.7
+filelock==3.13.1
+pillow==10.2.0
+platformdirs==4.2.0
+pygame==2.5.2
+python-dotenv==1.0.1
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2023.3
+virtualenv==20.25.0
